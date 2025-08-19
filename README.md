@@ -1,2 +1,2 @@
-# citc1300
+# cweb project
 class project

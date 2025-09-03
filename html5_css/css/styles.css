@@ -1,11 +1,15 @@
 body {
     background-color: red}
 #contanier{
-    background-color: #170606;
+    background-color: maroon;
     width: 950px;
     margin: 20px auto;
-    border: 2px solid;
-    padding: 20px
+    border: 2px solid azure;
+    padding: 20px; }
+Nav{
+    text-align: center;
+    border-top: 4px solid azure;
+    border-color: 4px solid azure;
 }
 h1 {color:white}
 h2 {color:white}

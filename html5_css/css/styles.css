@@ -1,0 +1,12 @@
+body {
+    background-color: red}
+#contanier{
+    background-color: maroon;
+    width: 950px;
+    margin: 20px auto;
+    border: 2px solid;
+    padding:20px
+}
+h1 {color:white}
+h2 {color:white}
+h3 {color:azure}

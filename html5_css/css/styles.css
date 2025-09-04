@@ -22,7 +22,15 @@ nav a:hover{
     color:white;
     text-decoration: none;
 }
-    
-h1 {color:white}
+main h1{
+    color: azure;
+    text-align: center;
+}
+main img{
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+}
+
 h2 {color:white}
 h3 {color:azure}
